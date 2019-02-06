@@ -1,11 +1,10 @@
 # PedestrianDetectionYOLO
 Pedestrian Detection using YOLO framework
 
-GPU Trained: no 
-CPU Trained: yes
+CPU Trained
 
-Dataset: Caltech Padestrian Dataset
+Caltech Padestrian Dataset
 
-Dataset Size: 170 png images
+170 png images
 
-Dependencies: OpenCV, imutils, numpy
+OpenCV, imutils, numpy
