@@ -16,27 +16,6 @@ options = {
     'thre`shold': 0.5045, #low for weaker model, higher for stronger model
     'gpu': 0.0
 }
-'''
-#WEBCAM,
-#make harvard presentation
-0.503 #certain, but on the higher side  
-0.502988 #seems to be the best
-0.502987 #still gives extra row of boxes on top
-
-#jersey city
-0.5058
-0.5043
-0.504921
-
-#VIDEO
-0.50453 
-0.5045251
-
-#LOCALHOST SERVER STREAM from upstairs jersey city
-#0.50436   
-0.50435999    
-'''
-
 
 tfnet = TFNet(options)
 colors = [tuple(255 * np.random.rand(3)) for _ in range(10)]
