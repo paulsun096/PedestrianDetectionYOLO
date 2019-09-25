@@ -1,5 +1,4 @@
-# PedestrianDetectionYOLO
-<h2> Download darknet-master algorithm from darknet</h2>
+<h2>Convolutional Neural Network Pedestrian Detection YOLOv2</h2>
 
 Depdencies:
 OpenCV, imutils, numpy
