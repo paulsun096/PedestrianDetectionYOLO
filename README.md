@@ -6,9 +6,9 @@ OpenCV, imutils, numpy
 
 YOLO Pedestrian Detection is based on the darknet project https://github.com/pjreddie/darknet
 
-* Threshold value is manually changed
+* Threshold value is manually changed 
 
 Added
 
-- sound on deteciton 
+- sound plays when person detection threshold value is passed 
 - transparent solid boxes over detection plane
