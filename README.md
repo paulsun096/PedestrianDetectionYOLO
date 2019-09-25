@@ -11,4 +11,4 @@ YOLO Pedestrian Detection is based on the darknet project https://github.com/pjr
 Added
 
 - sound on deteciton 
-- transparent solid boxes
+- transparent solid boxes over detection plane
