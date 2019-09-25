@@ -1,10 +1,14 @@
 # PedestrianDetectionYOLO
-Pedestrian Detection using YOLO framework
+<h2> Download darknet-master algorithm from darknet</h2>
 
-CPU Trained
-
-Caltech Padestrian Dataset
-
-170 png images
-
+Depdencies:
 OpenCV, imutils, numpy
+
+YOLO Pedestrian Detection is based on the darknet project https://github.com/pjreddie/darknet
+
+* Threshold value is manually changed
+
+Added
+
+- sound on deteciton 
+- transparent solid boxes
